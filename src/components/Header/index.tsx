@@ -58,7 +58,7 @@ const Header = (): JSX.Element => {
             <div className="HeaderRight">
                 <div>
                     <a
-                        href="https://west352.github.io/"
+                        href="https://www.linkedin.com/in/west-changjiang-liu-22a378292"
                         target="_blank"
                         rel="noreferrer"
                     >
